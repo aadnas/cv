@@ -21,20 +21,20 @@ Ensuring continuous operation of equipment in the production area. Quafification
 
 ## Work experience
 
-`April 2022 - present`
+`2022 - present`
 __ALK-Abello__
 - Equipment professional
   * GMP
   * Qualification activities
   * Presentet at audits
   
-`February 2019 - June 2020`
+`2019 - 2020`
 __NEXT Uddannelse København__
 - Teacher
   * Taught technical studies A, vocational studies, mathematics A and C
   * Developed the curriculum
 
-`April 2016 - October 2016`
+`2016 - 2016`
 __EVI Ski AS__
 - Engineer Intern
   * Development of new production equipment
@@ -43,35 +43,35 @@ __EVI Ski AS__
 
 
 
-`June - July 2010, 2012`
+`Summer 2010, 2012`
 __Totaltek A/S, Norway__
 - Electrician 
 
-`January - June 2008`
+`2008`
 __Lystrup El Aps__
 - Electrician 
 
-`August 2007 - January 2008`
+`2007 - 2008`
 __To-El Aps__
 - Electrician 
 
-`August 2004 - June 2007`
+`2004 - 2007`
 __Totaltek A/S, Norway__
 - Electrician
   
 ## Education
 
-`September 2012 - May 2018`
+`2012 - 2018`
 __Danmarks Tekniske Universitet__
 - B.Eng, Mechanical Engineering - Engineering design
   *  High temperature small batch waste incinerator was the title of my bachelor project, a proof of concept, where the goal was to prove that it was possible to combust medical waste at temperatures at >1100˚C. A threshold set by WHO for combustion of medical waste.
 
-`August 2008 - June 2009`
+`2008 - 2009`
 __Ingeniørhøjskolen i Århus__
 
 - Admisson course
 
-`August 2004 - February 2007`
+`2004 - 2007`
 __NELFO, Oslo__
 
 - Electrician, Group L
