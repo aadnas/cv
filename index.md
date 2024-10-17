@@ -64,7 +64,7 @@ __Totaltek A/S, Norway__
 `September 2012 - May 2018`
 __Danmarks Tekniske Universitet__
 - B.Eng, Mechanical Engineering - Engineering design
-*  *High temperature small batch waste incinerator* was the title of my bachelor project, a proof of concept, where the goal was to prove that it was possible to combust medical waste at temperatures at >1100˚C. A threshold set by WHO for combustion of medical waste.
+  *  -High temperature small batch waste incinerator- was the title of my bachelor project, a proof of concept, where the goal was to prove that it was possible to combust medical waste at temperatures at >1100˚C. A threshold set by WHO for combustion of medical waste.
 
 `August 2008 - June 2009`
 __Ingeniørhøjskolen i Århus__
