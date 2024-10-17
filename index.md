@@ -22,13 +22,20 @@ Ensuring continuous operation of equipment in the production area. Quafification
 ## Work experience
 
 `April 2022 - present`
-ALK-Abello
+__ALK-Abello__
 - Equipment professional
 - * GMP
 
 `February 2019 - June 2020`
-NEXT Uddannelse København
+__NEXT Uddannelse København__
 - Teacher
+
+`April 2016 - October 2016`
+__EVI Ski AS__
+- Engineer Intern
+- * Development of new production equipment
+  * Service and repairs of existing equipment
+  * Development of hardware and software with Arduino
 
 ## Education
 
