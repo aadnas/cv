@@ -44,19 +44,19 @@ __EVI Ski AS__
 
 
 `June - July 2010, 2012`
-Totaltek A/S, Norway
+__Totaltek A/S, Norway__
 - Electrician 
 
 `January - June 2008`
-Lystrup El Aps
+__Lystrup El Aps__
 - Electrician 
 
 `August 2007 - January 2008`
-To-El Aps
+__To-El Aps__
 - Electrician 
 
 `August 2004 - June 2007`
-Totaltek A/S, Norway
+__Totaltek A/S, Norway__
 - Electrician
   
 ## Education
@@ -79,9 +79,17 @@ __NELFO, Oslo__
 
 
 
-## Publications
+## Languages
+__Norwegian__
+-Native
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__Danish__
+- Native level
+
+__English__
+- Native level
+
+
 
 ### Journals
 
@@ -93,27 +101,11 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2024 -->
 
 
