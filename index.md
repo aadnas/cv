@@ -41,7 +41,7 @@ __EVI Ski AS__
   * Service and repairs of existing equipment
   * Development of hardware and software with Arduino
 
-`Prior`
+
 __Electrican__
 `June - July 2010, 2012`
 - Totaltek A/S, Norway
@@ -64,7 +64,7 @@ __Ingeniørhøjskolen i Århus__
 
 - Admisson course
 
-`1667 - February 2007`
+`August 2004 - February 2007`
 __Trinity College, Cambridge__
 
 - Fellow
