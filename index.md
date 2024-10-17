@@ -42,20 +42,23 @@ __EVI Ski AS__
   * Development of hardware and software with Arduino
 
 
-__Electrician__
-`June - July 2010, 2012`
-- Totaltek A/S, Norway
-- 
-__Electrician__
-`August 2004 - June 2007`
 
-Lystrup El Aps
+`June - July 2010, 2012`
+Totaltek A/S, Norway
+- Electrician 
 
 `January - June 2008`
-__Electrician__
-To-El Aps
-`August 2007 - January 2008`
+Lystrup El Aps
+- Electrician 
 
+`August 2007 - January 2008`
+To-El Aps
+- Electrician 
+
+`August 2004 - June 2007`
+Totaltek A/S, Norway
+- Electrician
+- 
 ## Education
 
 `September 2012 - May 2018`
