@@ -43,7 +43,7 @@ __EVI Ski AS__
 
 
 
-`Summer 2010, 2012`
+`2010, 2012`
 __Totaltek A/S, Norway__
 - Electrician 
 
