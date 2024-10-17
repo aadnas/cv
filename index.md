@@ -41,14 +41,18 @@ __EVI Ski AS__
   * Service and repairs of existing equipment
   * Development of hardware and software with Arduino
 
-` `
-__Electrican__
+
+__Electrician__
 `June - July 2010, 2012`
 - Totaltek A/S, Norway
-
+- 
+__Electrician__
 `August 2004 - June 2007`
+
 Lystrup El Aps
+
 `January - June 2008`
+__Electrician__
 To-El Aps
 `August 2007 - January 2008`
 
@@ -65,9 +69,9 @@ __Ingeniørhøjskolen i Århus__
 - Admisson course
 
 `August 2004 - February 2007`
-__Trinity College, Cambridge__
+__NELFO, Oslo__
 
-- Fellow
+- Electrician
 
 
 
