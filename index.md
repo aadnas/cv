@@ -24,6 +24,7 @@ Ensuring continuous operation of equipment in the production area. Quafification
 `April 2022 - present`
 ALK-Abello
 - Equipment professional
+- * GMP
 
 `February 2019 - June 2020`
 NEXT Uddannelse København
