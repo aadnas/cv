@@ -6,7 +6,7 @@ title: Andreas Bruun Sandaa's CV
 B.Eng Mechanical Engineering - Engineering Design
 
 <div id="webaddress">
-<a href="andreas@bruunsandaa.dk">andreas@bruunsandaa.dk</a>
+<a href="andreas@bruunsandaa.dk">andreas@bruunsandaa.dk</a> | +45 25705300
 </div>
 
 
@@ -79,9 +79,9 @@ __NELFO, Oslo__
 
 
 
-## Languages
+### Languages
 __Norwegian__
--Native
+- Native
 
 __Danish__
 - Native level
@@ -91,16 +91,31 @@ __English__
 
 
 
-### Journals
+### IT
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Solid Works
+- User
 
-`1669`
-Lectiones opticæ.
+Fusion 360 
+- User
 
-etc. etc. etc.
+Creo
+- User
 
+Microsoft Office
+- User
+
+R
+- User
+
+Matlab
+- Novice
+
+Arduino
+- Novice
+
+CATiA
+- Novice
 
 
 
