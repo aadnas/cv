@@ -24,33 +24,33 @@ Ensuring continuous operation of equipment in the production area. Quafification
 `April 2022 - present`
 __ALK-Abello__
 - Equipment professional
-- * GMP
+  * GMP
   * Qualification activities
   * Presentet at audits
   
 `February 2019 - June 2020`
 __NEXT Uddannelse København__
 - Teacher
-- * Taught technical studies A, vocational studies, mathematics A and C
-- * Developed the curriculum
+  * Taught technical studies A, vocational studies, mathematics A and C
+  * Developed the curriculum
 
 `April 2016 - October 2016`
 __EVI Ski AS__
 - Engineer Intern
-- * Development of new production equipment
+  * Development of new production equipment
   * Service and repairs of existing equipment
   * Development of hardware and software with Arduino
 
-
+` `
 __Electrican__
 `June - July 2010, 2012`
 - Totaltek A/S, Norway
 
 `August 2004 - June 2007`
 Lystrup El Aps
-January - June 2008
+`January - June 2008`
 To-El Aps
-August 2007 - January 2008
+`August 2007 - January 2008`
 
 ## Education
 
