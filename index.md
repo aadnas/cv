@@ -1,29 +1,33 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andreas Bruun Sandaa's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andreas Bruun Sandaa
+B.Eng Mechanical Engineering - Engineering Design
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="andreas@bruunsandaa.dk">andreas@bruunsandaa.dk</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Equipment Professional in ALK-Abello
 
-### Specialized in
+### Working with 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Ensuring continuous operation of equipment in the production area. Quafification and verification of new equipment, in a GMP environment. Wriging standard operation procedures, work instructions, change management cases, and deviations.
 
 
-### Research interests
+## Work experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`April 2022 - present`
+ALK-Abello
+- Equipment professional
 
+`February 2019 - June 2020`
+NEXT Uddannelse København
+- Teacher
 
 ## Education
 
@@ -40,14 +44,6 @@ __Trinity College, Cambridge__
 
 - Fellow
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
