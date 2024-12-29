@@ -9,6 +9,8 @@ B.Eng Mechanical Engineering - Engineering Design
 <a href="andreas@bruunsandaa.dk">andreas@bruunsandaa.dk</a> | +45 25705300
 </div>
 
+## Reason for applying
+I would like to see how a similar position is in a larger company.
 
 ## Currently
 
@@ -16,7 +18,7 @@ Equipment Professional in ALK-Abello
 
 ### Working with 
 
-Ensuring continuous operation of equipment in the production area. Quafification and verification of new equipment, in a GMP environment. Wriging standard operation procedures, work instructions, change management cases, and deviations.
+Ensuring continuous operation of equipment in the production area. Qualification and verification of new equipment, in a GMP environment. Writing standard operation procedures, work instructions, change management cases, and deviations.
 
 
 ## Work experience
