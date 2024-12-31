@@ -9,8 +9,6 @@ B.Eng Mechanical Engineering - Engineering Design
 <a href="andreas@bruunsandaa.dk">andreas@bruunsandaa.dk</a> | +45 25705300
 </div>
 
-## Reason for applying
-I would like to see how a similar position is in a larger company.
 
 ## Currently
 
