@@ -26,7 +26,7 @@ __ALK-Abello__
 - Equipment professional
   * GMP
   * Qualification activities
-  * Presentet at audits
+  * Presented at audits
   
 `2019 - 2020`
 __NEXT Uddannelse København__
