@@ -9,6 +9,8 @@ B.Eng Mechanical Engineering - Engineering Design
 <a href="andreas@bruunsandaa.dk">andreas@bruunsandaa.dk</a> | +45 25705300
 </div>
 
+## Reason for applying
+Working with qualification but from a materials viewpoint is interesting to me. I would like to further expand my knowledge of qualification and what that entails. 
 
 ## Currently
 
@@ -16,7 +18,7 @@ Equipment Professional in ALK-Abello
 
 ### Working with 
 
-Ensuring continuous operation of equipment in the production area. Qualification and verification of new equipment, in a GMP environment. Writing standard operation procedures, work instructions, change management cases, and deviations.
+Ensuring continuous operation of equipment in the production area. Qualification and verification of new equipment, in a GMP environment. Writing standard operation procedures, work instructions, change management, and deviations.
 
 
 ## Work experience
@@ -69,7 +71,7 @@ __Danmarks Tekniske Universitet__
 `2008 - 2009`
 __Ingeniørhøjskolen i Århus__
 
-- Admisson course
+- Admission course
 
 `2004 - 2007`
 __NELFO, Oslo__
@@ -121,6 +123,6 @@ CATiA
 
 <!-- ### Footer
 
-Last updated: October 2024 -->
+Last updated: January 2025 -->
 
 
