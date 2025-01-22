@@ -9,9 +9,6 @@ B.Eng Mechanical Engineering - Engineering Design
 <a href="andreas@bruunsandaa.dk">andreas@bruunsandaa.dk</a> | +45 25705300
 </div>
 
-## Reason for applying
-I am applying for this job because i am seeking to take a step back from the production line, to be able to not just make solutions that are 'this work right now', but to be able to find the right solution. I can provide Novo Nordisk with a curious and dedicated employee, that enjoys seeing that what one delivers is something were you say 'I was part of that' with a sense of professional pride.  
-
 ## Currently
 
 Equipment Professional in ALK-Abello
