@@ -10,7 +10,7 @@ B.Eng Mechanical Engineering - Engineering Design
 </div>
 
 ## Reason for applying
-Working with qualification but from a materials viewpoint is interesting to me. I would like to further expand my knowledge of qualification and what that entails. 
+I am applying for this job because i am seeking to take a step back from the production line, to be able to not just make solutions that are 'this work right now', but to be able to find the right solution. I can provide Novo Nordisk with a curious and dedicated employee, that enjoys seeing that what one delivers is something were you say 'I was part of that' with a sense of professional pride.  
 
 ## Currently
 
